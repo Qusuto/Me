@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rüzgar</h1>
-<h3 align="center">Javascript Enjoyer</h3>
+<h1 align="center">Hi 👋, I'm Emir</h1>
+<h3 align="center">C++ Enjoyer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=62kepler62&label=Profile%20views&color=0e75b6&style=flat" alt="62kepler62" /> </p>
 
